@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Desktop/project/Producer/src/test/scala/ProducerExampleSpec.scala:30:28: illegal cyclic reference involving value <import>[0m
+[0m[[0m[31merror[0m] [0m[0m     object MyJsonProtocol extends DefaultJsonProtocol {[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

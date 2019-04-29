@@ -1,0 +1,29 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/Desktop/project/Producer/target/scala-2.12/producer_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Consumer$MyJsonProtocol$1$ColorJsonFormat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/project/Producer/target/scala-2.12/classes/Consumer$MyJsonProtocol$1$ColorJsonFormat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Producer$MyJsonProtocol$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/project/Producer/target/scala-2.12/classes/Producer$MyJsonProtocol$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Consumer$MyJsonProtocol$1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/project/Producer/target/scala-2.12/classes/Consumer$MyJsonProtocol$1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Producer$MyJsonProtocol$ColorJsonFormat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/project/Producer/target/scala-2.12/classes/Producer$MyJsonProtocol$ColorJsonFormat$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GameDataBean.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/project/Producer/target/scala-2.12/classes/GameDataBean.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GameData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/project/Producer/target/scala-2.12/classes/GameData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Consumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/project/Producer/target/scala-2.12/classes/Consumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GameData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/project/Producer/target/scala-2.12/classes/GameData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Producer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/project/Producer/target/scala-2.12/classes/Producer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Producer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/project/Producer/target/scala-2.12/classes/Producer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Consumer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/project/Producer/target/scala-2.12/classes/Consumer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Producer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/project/Producer/target/scala-2.12/classes/Producer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Consumer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/project/Producer/target/scala-2.12/classes/Consumer$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
